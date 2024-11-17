@@ -1,8 +1,1 @@
-echo“＃ - ”>> README.md 
-git init 
-git add README.md 
-git commit -m“first commit” 
-git remote add origin https://github.com/Mu1997/-.git
- git push -u origin master
- git hello world my name is luoyinghao
- 
+发财是每个人的终极梦想
